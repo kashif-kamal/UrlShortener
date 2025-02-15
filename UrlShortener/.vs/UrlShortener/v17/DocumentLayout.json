@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\model\\createshorturlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:model\\createshorturlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\services\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:services\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A8508-4DB6-4D3D-B549-31B7246AC3BE}|..\\UrlShortener.Tests\\UrlShortener.Tests.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener.tests\\services\\urlshortenerserviceexceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A8508-4DB6-4D3D-B549-31B7246AC3BE}|..\\UrlShortener.Tests\\UrlShortener.Tests.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener.tests\\repositories\\inmemoryrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A8508-4DB6-4D3D-B549-31B7246AC3BE}|..\\UrlShortener.Tests\\UrlShortener.Tests.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener.tests\\controllers\\urlshortenercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A8508-4DB6-4D3D-B549-31B7246AC3BE}|..\\UrlShortener.Tests\\UrlShortener.Tests.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener.tests\\middlewares\\exceptionmmiddlewaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A8508-4DB6-4D3D-B549-31B7246AC3BE}|..\\UrlShortener.Tests\\UrlShortener.Tests.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener.tests\\services\\urlshortenerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\services\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:services\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\repositories\\iurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:repositories\\iurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\repositories\\inmemoryurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:repositories\\inmemoryurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|c:\\personal\\kashif\\sagunainterview\\urlshortener\\urlshortener.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{58D4346F-C4D1-44CB-ABAD-E9CEDC23E793}|UrlShortener.csproj|solutionrelative:urlshortener.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-15T14:03:31.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrlShortenerController.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Controllers\\UrlShortenerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrlShortenerController.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Controllers\\UrlShortenerController.cs",
+              "RelativeToolTip": "Controllers\\UrlShortenerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:43:33.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrlShortenerService.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Services\\UrlShortenerService.cs",
+              "RelativeDocumentMoniker": "Services\\UrlShortenerService.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Services\\UrlShortenerService.cs",
+              "RelativeToolTip": "Services\\UrlShortenerService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwBAAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:59:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateShortUrlRequest.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Model\\CreateShortUrlRequest.cs",
+              "RelativeDocumentMoniker": "Model\\CreateShortUrlRequest.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Model\\CreateShortUrlRequest.cs",
+              "RelativeToolTip": "Model\\CreateShortUrlRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:49:08.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:04:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:26:18.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T13:47:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrlShortenerServiceTests.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Services\\UrlShortenerServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortener.Tests\\Services\\UrlShortenerServiceTests.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Services\\UrlShortenerServiceTests.cs",
+              "RelativeToolTip": "..\\UrlShortener.Tests\\Services\\UrlShortenerServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:32:23.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrlShortenerControllerTests.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Controllers\\UrlShortenerControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortener.Tests\\Controllers\\UrlShortenerControllerTests.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Controllers\\UrlShortenerControllerTests.cs",
+              "RelativeToolTip": "..\\UrlShortener.Tests\\Controllers\\UrlShortenerControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:38:13.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMMiddlewareTests.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Middlewares\\ExceptionMMiddlewareTests.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortener.Tests\\Middlewares\\ExceptionMMiddlewareTests.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Middlewares\\ExceptionMMiddlewareTests.cs",
+              "RelativeToolTip": "..\\UrlShortener.Tests\\Middlewares\\ExceptionMMiddlewareTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:39:13.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrlShortenerServiceExceptionTests.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Services\\UrlShortenerServiceExceptionTests.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortener.Tests\\Services\\UrlShortenerServiceExceptionTests.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Services\\UrlShortenerServiceExceptionTests.cs",
+              "RelativeToolTip": "..\\UrlShortener.Tests\\Services\\UrlShortenerServiceExceptionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:40:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Repositories\\InMemoryRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortener.Tests\\Repositories\\InMemoryRepositoryTests.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener.Tests\\Repositories\\InMemoryRepositoryTests.cs",
+              "RelativeToolTip": "..\\UrlShortener.Tests\\Repositories\\InMemoryRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:31:41.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUrlRepository.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Repositories\\IUrlRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUrlRepository.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Repositories\\IUrlRepository.cs",
+              "RelativeToolTip": "Repositories\\IUrlRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:53:57.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUrlShortenerService.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Services\\IUrlShortenerService.cs",
+              "RelativeDocumentMoniker": "Services\\IUrlShortenerService.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Services\\IUrlShortenerService.cs",
+              "RelativeToolTip": "Services\\IUrlShortenerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:58:48.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InMemoryUrlRepository.cs",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Repositories\\InMemoryUrlRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InMemoryUrlRepository.cs",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\Repositories\\InMemoryUrlRepository.cs",
+              "RelativeToolTip": "Repositories\\InMemoryUrlRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:55:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T13:06:07.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UrlShortener.http",
+              "DocumentMoniker": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\UrlShortener.http",
+              "RelativeDocumentMoniker": "UrlShortener.http",
+              "ToolTip": "C:\\Personal\\Kashif\\SagunaInterview\\UrlShortener\\UrlShortener.http",
+              "RelativeToolTip": "UrlShortener.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-15T12:41:50.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
